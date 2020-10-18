@@ -33,7 +33,7 @@ p {
 	font-family: 'Open Sans', sans-serif;
 }
 a {
-	color: #0dad8d;
+	color: #1331d6;
 }
 a:hover, a:focus {
 	text-decoration: none;
@@ -67,7 +67,7 @@ hr {
 	width: 60px;
 	text-align: center;
 	position: relative;
-	background: #0dad8d;
+	background: #1331d6;
 	border: 0;
 	margin: 10px auto 30px;
 }
@@ -97,22 +97,22 @@ hr {
 	letter-spacing: 1px;
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
-	color: #0dad8d;
+	color: #1331d6;
 }
 .on {
 	background-color: #222222 !important;
 	padding: 0 !important;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #0dad8d !important;
+	color: #1331d6 !important;
 	background-color: transparent;
 }
 .navbar-toggle {
 	border-radius: 0;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-	background-color: #0dad8d;
-	border-color: #0dad8d;
+	background-color: #1331d6;
+	border-color: #1331d6;
 }
 .navbar-default .navbar-toggle:hover>.icon-bar {
 	background-color: #FFF;
@@ -155,7 +155,7 @@ header p {
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
 	background-color: #fff;
-	color: #0dad8d;
+	color: #135094;
 	border-color: #fff;
 }
 /* Services Section */
@@ -173,7 +173,7 @@ header p {
 	font-size: 40px;
 	margin-bottom: 20px;
 	transition: all 0.5s;
-	color: #0dbf9b;
+	color: #135094;
 }
 /* Gallery Section 
 ==============================*/
@@ -199,12 +199,12 @@ ol.type li a {
 	border-radius: 0;
 }
 ol.type li a.active {
-	color: #0dad8d;
-	border: 1px solid #0dad8d;
+	color: #135094;
+	border: 1px solid #135094;
 }
 ol.type li a:hover {
-	color: #0dad8d;
-	border: 1px solid #0dad8d;
+	color: #135094;
+	border: 1px solid #135094;
 }
 .isotope-item {
 	z-index: 2
@@ -332,7 +332,7 @@ img.img-circle.team-img {
 /* Achivements Section */
 #achievements {
 	padding: 80px 0;
-	background-color: #0dbf9b;
+	background-color: #135094;
 }
 .achievement-box {
 	text-align: center;
@@ -362,7 +362,7 @@ img.img-circle.team-img {
 	padding: 30px 0;
 }
 #contact-section i.fa {
-	color: #0dad8d;
+	color: #135094;
 	font-size: 16px;
 	margin-bottom: 10px;
 }
@@ -397,15 +397,15 @@ label {
 }
 #contact-section .btn {
 	background: transparent;
-	border: 2px solid #12dbb2;
+	border: 2px solid #1462ba;
 	border-radius: 4px;
 	padding: 10px 20px;
 	margin-top: 20px;
-	color: #0dbf9b;
+	color: #135094;
 }
 #contact-section .btn:hover, #contact-section .btn:focus {
-	background: #0dbf9b;
-	border: 2px solid #0dbf9b;
+	background: #135094;
+	border: 2px solid #135094;
 	color: #fff;
 }
 #contact-section .text-danger {
@@ -425,7 +425,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 /* Social Section */
 #social-section {
 	padding: 30px 0;
-	background-color: #0dbf9b;
+	background-color: #135094;
 	text-align: center;
 }
 #social-section .social ul li {
@@ -457,7 +457,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 #footer a:hover, a:focus {
 	text-decoration: none;
-	color: #0dad8d;
+	color: #135094;
 }
 
 @media (max-width: 768px) {
